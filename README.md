@@ -1,14 +1,14 @@
-# xx_XX language pack for Maho ecommerce platform
+# French (fr_FR) language pack for Maho ecommerce platform
 
-This repository contains the xx_XX language pack for the Maho e-commerce platform.
-It provides localization support for the xx_XX language and region.
+This repository contains the fr_FR language pack for the Maho e-commerce platform.
+It provides localization support for the fr_FR language and region.
 
 ## Installation
 
 To install this language pack, run the following command in your Maho project directory:
 
 ```bash
-composer require maho-language-xx_XX
+composer require maho-language-fr_fr
 ```
 
 Then activate the language pack for a website/store/storeview within your Maho backend:

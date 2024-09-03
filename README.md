@@ -8,7 +8,7 @@ It provides localization support for the fr_FR language and region.
 To install this language pack, run the following command in your Maho project directory:
 
 ```bash
-composer require maho-language-fr_fr
+composer require mahocommerce/maho-language-fr_fr
 ```
 
 Then activate the language pack for a website/store/storeview within your Maho backend:
